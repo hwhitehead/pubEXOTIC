@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Example'
-copyright = 'workshop participant'
-author = 'workshop participant'
+project = 'EXOTIC'
+copyright = 'none'
+author = 'Luke Parker, Henry Whitehead'
 release = '0.1'
 
 

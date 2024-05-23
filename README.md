@@ -1,4 +1,3 @@
-# Documentation example
+# EXOTIC documentation hosting
 
-We use this example in the lesson
-[How to document your research software](https://coderefinery.github.io/documentation/).
+Repository containing Sphinx code for documentation generation, as hosted on Github Pages.

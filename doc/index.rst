@@ -12,7 +12,7 @@ built in both Python and C++, to display these colors.
 
 .. image:: images/55_Cnc.png
 
--- toctree::
+.. toctree::
    :maxdepth: 2
 
    Generating Colors <color_gen>

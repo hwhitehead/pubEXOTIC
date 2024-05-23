@@ -14,5 +14,6 @@ built in both Python and C++, to display these colors.
 
 .. toctree::
    :maxdepth: 1
+
    color_gen
    render

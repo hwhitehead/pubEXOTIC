@@ -11,3 +11,9 @@ relfection spectra, and then convolves these spectra with the human eye's respon
 built in both Python and C++, to display these colors. 
 
 .. image:: images/55_Cnc.png
+
+-- toctree::
+   :maxdepth: 2
+
+   Generating Colors <color_gen>
+   Rendering Images <render>

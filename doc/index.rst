@@ -10,9 +10,4 @@ EXOTIC is a Python package to convert exoplanet properties into human-eye visibl
 relfection spectra, and then convolves these spectra with the human eye's response function, resulting in RGB colors fit for computer display. EXOTIC also features visualisation tools, 
 built in both Python and C++, to display these colors. 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   some-feature.md
-   another-feature.md
+.. image:: images/55_Cnc_rot_label.gif
